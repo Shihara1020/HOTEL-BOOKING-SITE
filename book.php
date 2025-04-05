@@ -4,10 +4,10 @@ header('Content-Type: application/json');
 
 // Database connection (you'll need to set this up)
 $servername = "localhost";
-$username = "your_username";
-$password = "your_password";
-$dbname = "hotel_booking";
-
+$username = 'root';
+$password = '';
+$dbname = "hotel_management";
+$charset = 'utf8mb4';
 try {
     $conn = new PDO("mysql:host=$servername;dbname=$dbname", $username, $password);
     $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
@@ -41,7 +41,7 @@ if (strtotime($checkout) <= strtotime($checkin)) {
 
 // Insert booking into database
 try {
-    $stmt = $conn->prepare("INSERT INTO bookings (name, email, phone, checkin_date, checkout_date, adults, children, room_type, special_requests, created_at) 
+    $stmt = $conn->prepare("INSERT INTO onlinebookings (name, email, phone, checkin_date, checkout_date, adults, children, room_type, special_requests, created_at) 
                            VALUES (:name, :email, :phone, :checkin, :checkout, :adults, :children, :room_type, :special_requests, NOW())");
     
     $stmt->bindParam(':name', $name);

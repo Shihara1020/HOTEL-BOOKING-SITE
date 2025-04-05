@@ -107,23 +107,6 @@
                     </div>
                 </div>
                 
-                <!-- Room 6
-                <div class="room-card" data-aos="fade-up" data-aos-delay="200">
-                    <div class="room-img">
-                        <img src="images/room1.jpg" alt="Honeymoon Suite">
-                        <div class="room-price">$499/night</div>
-                    </div>
-                    <div class="room-info">
-                        <h3>Honeymoon Suite</h3>
-                        <p>Romantic getaway with special amenities for couples.</p>
-                        <ul class="room-features">
-                            <li><i class="fas fa-bed"></i> King Bed</li>
-                            <li><i class="fas fa-wine-glass-alt"></i> Champagne</li>
-                            <li><i class="fas fa-spa"></i> Couples Massage</li>
-                        </ul>
-                        <a href="#booking" class="btn btn-small">Book Now</a>
-                    </div>
-                </div> -->
                 
                 <!-- Room 7 -->
                 <div class="room-card" data-aos="fade-up">
@@ -165,29 +148,6 @@
                     </div>
                 </div>
                 
-                <!-- <div class="dining-card" data-aos="fade-left">
-                    <div class="dining-img">
-                        <img src="images/breakfest.jpg" alt="Poolside Bar">
-                    </div>
-                    <div class="dining-info">
-                        <h3>Azure Pool Bar</h3>
-                        <p>Relax by the pool with refreshing cocktails and light snacks. Perfect for a midday break.</p>
-                        <p><strong>Hours:</strong> 10:00 AM - 8:00 PM</p>
-                        <p><strong>Dress Code:</strong> Casual</p>
-                    </div>
-                </div> -->
-                
-                <!-- <div class="dining-card" data-aos="fade-right">
-                    <div class="dining-img">
-                        <img src="images/breakfest.jpg" alt="Fine Dining">
-                    </div>
-                    <div class="dining-info">
-                        <h3>La Belle Époque</h3>
-                        <p>Michelin-starred fine dining experience with chef's tasting menu and premium wine pairing.</p>
-                        <p><strong>Hours:</strong> 6:00 PM - 11:00 PM (Reservation Only)</p>
-                        <p><strong>Dress Code:</strong> Formal</p>
-                    </div>
-                </div> -->
             </div>
         </div>
     </section>
