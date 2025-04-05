@@ -403,7 +403,9 @@
             <p class="section-subtitle">Find us easily</p>
             
             <div class="map-container" data-aos="fade-up">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.215256751345!2d-73.98811768459382!3d40.74844097932881!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9b3117469%3A0xd134e199a405a163!2sEmpire%20State%20Building!5e0!3m2!1sen!2sus!4v1620000000000!5m2!1sen!2sus" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d63343.31861313978!2d80.567511!3d7.130923!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae371007e127fb5%3A0x7801ca7396d3e1ff!2sVD%20Rest%20Gampola!5e0!3m2!1sen!2slk!4v1743861484061!5m2!1sen!2slk" width="800" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            
             </div>
             
             <div class="location-info" data-aos="fade-up">
